@@ -49,7 +49,7 @@ export const App = () => {
                   <button
                     data-cy="RemoveButton"
                     type="button"
-                    className="button is-info" //  is-info
+                    className="button is-info"
                     onClick={() => {
                       setValue('');
                     }}
